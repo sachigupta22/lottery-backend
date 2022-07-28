@@ -21,7 +21,7 @@ Project is created with:
 
 ### Frontend Repository
 
-- link: 
+- link: https://github.com/sachigupta22/Lottery-Application
 
 ### Backend
 
